@@ -1,0 +1,5 @@
+1.stats model - estimats statistical models and perform tests
+2.scikit image - Collection of algos for image processing
+3. scikit learn - tools for machin learning
+4. pandas - data analysis and manupulation
+5. matplotlib - plotting library for 2d graphs and visualization
